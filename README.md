@@ -1,4 +1,4 @@
-<img width="727" height="171" alt="step4-run franka controller" src="https://github.com/user-attachments/assets/ff148389-0827-4294-96a5-09b604424b79" /># Franka-Omega Teleoperation in Rviz
+# Franka-Omega Teleoperation in Rviz
 
 ## original github project
 
@@ -70,9 +70,9 @@
    ````
 3. you will see the real-time force feedback interface: 
 
-  <img width="940" height="785" alt="实时力反馈可视化" src="https://github.com/user-attachments/assets/d92a1e9a-d234-48c4-9189-02e1b121c3e7" />
+    <img width="940" height="785" alt="实时力反馈可视化" src="https://github.com/user-attachments/assets/d92a1e9a-d234-48c4-9189-02e1b121c3e7" />
 
-  <img width="937" height="784" alt="实时力反馈界面" src="https://github.com/user-attachments/assets/c922af43-5a58-4b09-8777-0b16ef8af939" />
+    <img width="937" height="784" alt="实时力反馈界面" src="https://github.com/user-attachments/assets/c922af43-5a58-4b09-8777-0b16ef8af939" />
 
 
 
@@ -91,15 +91,15 @@
    ````
    ros2 run sigma7 sigma_main
    ````
-  <img width="730" height="186" alt="step1-run omega" src="https://github.com/user-attachments/assets/6521b420-1108-4c35-a47b-101822ba36cc" />
+    <img width="730" height="186" alt="step1-run omega" src="https://github.com/user-attachments/assets/6521b420-1108-4c35-a47b-101822ba36cc" />
 
 3. launch Rviz
    ````
    ros2 launch franka_pose_control rviz.launch.py
    ````
-  <img width="730" height="174" alt="step2-run rviz" src="https://github.com/user-attachments/assets/4deb0ac9-826e-4ff9-ae53-ebdf3728bdab" />
+    <img width="730" height="174" alt="step2-run rviz" src="https://github.com/user-attachments/assets/4deb0ac9-826e-4ff9-ae53-ebdf3728bdab" />
 
-  <img width="1410" height="1422" alt="Rviz" src="https://github.com/user-attachments/assets/d6a19d65-5b29-4f3d-bbde-57906b958dbb" />
+    <img width="1410" height="1422" alt="Rviz" src="https://github.com/user-attachments/assets/d6a19d65-5b29-4f3d-bbde-57906b958dbb" />
 
 4. run pose publisher
    ````
@@ -111,8 +111,8 @@
    ````
    ros2 run franka_pose_control franka_pose
    ````
-  <img width="727" height="171" alt="step4-run franka controller" src="https://github.com/user-attachments/assets/5ef1b768-6f48-4f4e-a606-590f8d6e4703" />
+    <img width="727" height="171" alt="step4-run franka controller" src="https://github.com/user-attachments/assets/ff148389-0827-4294-96a5-09b604424b79" />
 
 6. finally, you can get:
 
-  ![最终效果](https://github.com/user-attachments/assets/fedd683c-be64-4e16-8097-26457c709e08)
+    ![最终效果](https://github.com/user-attachments/assets/fedd683c-be64-4e16-8097-26457c709e08)
