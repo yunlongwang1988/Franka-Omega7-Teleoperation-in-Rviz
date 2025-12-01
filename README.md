@@ -105,7 +105,7 @@
    ````
    ros2 run franka_pose_control franka_targetPose_publisher
    ````
-  <img width="730" height="183" alt="step3-run omega publisher" src="https://github.com/user-attachments/assets/fa859358-b193-4cff-9842-b88153a6e244" />
+    <img width="730" height="183" alt="step3-run omega publisher" src="https://github.com/user-attachments/assets/fa859358-b193-4cff-9842-b88153a6e244" />
 
 5. run franka controller to plan tragectory
    ````
