@@ -79,6 +79,8 @@
 
 ## franka-omega communication and control schematic diagram
 
+  <img width="1000" height="1096" alt="Franka_Omega通信及控制逻辑图" src="https://github.com/user-attachments/assets/8f45b263-d996-481a-9805-1255b1aa0ff7" />
+
 
 ## how to run franka-omega7 in Rviz
 
